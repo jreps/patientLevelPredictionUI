@@ -44,6 +44,7 @@ Getting Started
   install_github("ohdsi/DatabaseConnector") 
   install_github("ohdsi/Cyclops") 
   install_github("ohdsi/PatientLevelPrediction") 
+  install("DT")
   ```
 
 Getting Involved
